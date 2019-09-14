@@ -1,1 +1,2 @@
 # playersbans
+FaZe Replays "Wallhack"
